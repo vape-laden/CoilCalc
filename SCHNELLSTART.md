@@ -14,7 +14,7 @@ Eine vollständige Android-App mit:
 ## 📁 Projektstruktur
 
 ```
-C:\Users\Sveta\Desktop\Vape Coil Rechner\
+CoilCalc/
 ├── app/
 │   ├── build.gradle.kts
 │   ├── proguard-rules.pro
@@ -41,7 +41,7 @@ C:\Users\Sveta\Desktop\Vape Coil Rechner\
 
 1. Android Studio starten
 2. **File → Open...**
-3. Ordner auswählen: `C:\Users\Sveta\Desktop\Vape Coil Rechner`
+3. Wähle den CoilCalc-Projektordner aus
 4. **OK** klicken
 
 ### 2. Gradle Sync warten
@@ -123,9 +123,9 @@ Akku CDR: 20A
 ## ⚠️ Häufige Probleme & Lösungen
 
 ### "SDK location not found"
-**Lösung:** 
+**Lösung:**
 - **File → Project Structure → SDK Location**
-- Android SDK Path eintragen (z.B. `C:\Users\Sveta\AppData\Local\Android\Sdk`)
+- Android SDK Path eintragen (z.B. `C:\Users\<YourUsername>\AppData\Local\Android\Sdk`)
 
 ### "Gradle sync failed"
 **Lösung:**

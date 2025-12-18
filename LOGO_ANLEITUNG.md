@@ -13,7 +13,7 @@ Dein Logo ist bereits perfekt: **COIL CALC** mit Coil-Grafik auf lila Hintergrun
 ### 2️⃣ In Android Studio öffnen
 
 1. **Android Studio** starten
-2. Projekt öffnen: `C:\Users\Sveta\Desktop\Vape Coil Rechner`
+2. Projekt öffnen: Wähle den Projektordner aus
 3. Warten bis Gradle-Sync fertig ist
 
 ### 3️⃣ Image Asset Tool öffnen
