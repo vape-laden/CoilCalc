@@ -79,15 +79,13 @@ CoilCalc is developed and maintained by [Vape-Laden](https://vape-laden.de), a t
 
 This application represents our commitment to transparency and community-driven development. All core calculation algorithms are open-source, allowing for peer review and continuous improvement.
 
-**Visit us:** [https://vape-laden.de](https://vape-laden.de)
-
 ## License
 
 This project is publicly available as part of our commitment to the vaping community. The application is also available on the Google Play Store.
 
 ## Repository Information
 
-- **Organization**: [vape-laden](https://github.com/vape-laden) (VortexCom UG (haftungsbeschränkt))
+- **Organization**: VortexCom UG (haftungsbeschränkt)
 - **Project**: CoilCalc
 - **Type**: Native Android Application
 - **Status**: Active Development
