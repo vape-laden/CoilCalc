@@ -87,7 +87,7 @@ This project is publicly available as part of our commitment to the vaping commu
 
 ## Repository Information
 
-- **Organization**: [vape-laden](https://github.com/vape-laden)
+- **Organization**: [vape-laden](https://github.com/vape-laden) (VortexCom UG (haftungsbeschränkt))
 - **Project**: CoilCalc
 - **Type**: Native Android Application
 - **Status**: Active Development
