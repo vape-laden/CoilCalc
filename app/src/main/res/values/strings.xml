@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">CoilCalc</string>
+    
+    <!-- Main Screen -->
+    <string name="calculator_title">Coil Calculator</string>
+    <string name="tab_calculator">Calculator</string>
+    <string name="tab_knowledge">Knowledge</string>
+    <string name="tab_info">Info</string>
+    
+    <!-- Knowledge Zone Tabs -->
+    <string name="knowledge_tab_dictionary">Dictionary</string>
+    <string name="knowledge_tab_faq">FAQ</string>
+    <string name="knowledge_tab_wires">Wires</string>
+    
+    <!-- Calculator Inputs -->
+    <string name="label_wire_material">Wire Material</string>
+    <string name="label_wire_gauge">Wire Gauge (AWG / mm)</string>
+    <string name="label_coil_id">Inner Diameter (mm)</string>
+    <string name="label_wraps">Number of Wraps</string>
+    <string name="label_target_resistance">Target Resistance (Ω)</string>
+    <string name="label_coil_type">Coil Type</string>
+    <string name="label_vaping_style">Vaping Style</string>
+    <string name="label_power">Power (W)</string>
+    <string name="label_voltage">Voltage (V)</string>
+    <string name="label_battery_cdr">Battery CDR (A)</string>
+    
+    <!-- Coil Types -->
+    <string name="coil_type_single">Single Coil</string>
+    <string name="coil_type_dual">Dual Coil</string>
+    <string name="coil_type_parallel">Parallel</string>
+    <string name="coil_type_twisted">Twisted</string>
+    <string name="coil_type_clapton">Clapton</string>
+    
+    <!-- Vaping Styles -->
+    <string name="style_mtl">MTL (Mouth to Lung)</string>
+    <string name="style_rdl">RDL (Restricted DL)</string>
+    <string name="style_dl">DL (Direct Lung)</string>
+    
+    <!-- Wire Materials -->
+    <string name="material_kanthal">Kanthal A1</string>
+    <string name="material_ni80">Nichrome 80</string>
+    <string name="material_ss316">Stainless Steel 316L</string>
+    <string name="material_ni200">Nickel 200</string>
+    <string name="material_titanium">Titanium Grade 1</string>
+    
+    <!-- Buttons -->
+    <string name="button_calculate">Calculate</string>
+    <string name="button_save">Save</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_back">Back</string>
+    
+    <!-- Results -->
+    <string name="results_title">Results</string>
+    <string name="result_resistance">Resistance:</string>
+    <string name="result_wraps_needed">Wraps Needed:</string>
+    <string name="result_wire_length">Wire Length:</string>
+    <string name="result_current">Current:</string>
+    <string name="result_power_range">Recommended Power:</string>
+    <string name="result_surface_area">Surface Area:</string>
+    <string name="result_heat_flux">Heat Flux:</string>
+    
+    <!-- Safety Indicators -->
+    <string name="safety_safe">Safe</string>
+    <string name="safety_warning">Warning</string>
+    <string name="safety_danger">Danger</string>
+    <string name="safety_message_safe">Build is within safe range</string>
+    <string name="safety_message_warning">High battery load - use with caution</string>
+    <string name="safety_message_danger">Battery CDR exceeded - Do not use!</string>
+    
+    <!-- Build Management -->
+    <string name="build_name">Build Name</string>
+    <string name="build_atomizer">Atomizer</string>
+    <string name="build_notes">Notes</string>
+    <string name="build_date">Created on:</string>
+    <string name="build_favorite">Favorite</string>
+    <string name="builds_empty">No builds saved yet</string>
+    <string name="delete_build">Delete Build</string>
+    <string name="delete_confirm">Do you really want to delete this build?</string>
+    
+    <!-- Developer Info -->
+    <string name="developer_info_title">Developer Information</string>
+    <string name="developer_info_text">CoilCalc was developed by Vape-Laden to provide precise coil calculations for vapers. For more information about the developer, please visit the website below. The link will open your device\'s default browser.</string>
+    <string name="developer_website">https://vape-laden.de/?utm_source=android_app&amp;utm_medium=app&amp;utm_campaign=coilcalc&amp;utm_content=developer_info</string>
+    
+    <!-- Errors & Warnings -->
+    <string name="error_invalid_input">Please enter valid values</string>
+    <string name="error_calculation">Calculation error</string>
+    <string name="validation_range">Value must be between %1$s and %2$s</string>
+    
+    <!-- Disclaimers -->
+    <string name="disclaimer_title">Important Notice</string>
+    <string name="disclaimer_text">All calculations are approximations. Always check your battery specifications and use only high-quality, high-drain batteries. Use at your own risk.</string>
+    <string name="disclaimer_accept">Understood</string>
+    
+    <!-- Units -->
+    <string name="unit_ohm">Ω</string>
+    <string name="unit_watt">W</string>
+    <string name="unit_volt">V</string>
+    <string name="unit_ampere">A</string>
+    <string name="unit_mm">mm</string>
+    <string name="unit_mm2">mm²</string>
+    <string name="unit_awg">AWG</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="setting_language">Language</string>
+    <string name="setting_theme">Theme</string>
+    <string name="setting_units">Units</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    
+    <!-- Knowledge Zone -->
+    <string name="knowledge_composition">Composition</string>
+    <string name="knowledge_properties">Properties</string>
+    <string name="knowledge_pros">Pros</string>
+    <string name="knowledge_cons">Cons</string>
+    
+    <!-- Tools Menu -->
+    <string name="menu_battery_life">Battery Life</string>
+    <string name="menu_converters">Converters</string>
+    
+    <!-- Battery Life -->
+    <string name="battery_life_title">Battery Life</string>
+    <string name="battery_capacity">BATTERY CAPACITY</string>
+    <string name="output_power">OUTPUT POWER</string>
+    <string name="avg_puff_time">AVERAGE PUFF TIME</string>
+    <string name="show_results">SHOW RESULTS</string>
+    <string name="clear">CLEAR</string>
+    <string name="estimated_runtime">The estimated total runtime</string>
+    <string name="estimated_puffs">The estimated number of puffs</string>
+    
+    <!-- Converters -->
+    <string name="converters_title">Converters</string>
+    <string name="tab_inch">Inch</string>
+    <string name="tab_temperature">Temperature</string>
+    <string name="convert_inch_to_mm">Convert Inch to mm</string>
+    <string name="convert_celsius_fahrenheit">Convert Celsius to Fahrenheit</string>
+    <string name="fraction_hint">Fraction (e.g., 1/8)</string>
+    <string name="or">OR</string>
+    
+    <!-- Calculator Mode -->
+    <string name="mode_wraps_to_resistance">Wraps → Resistance</string>
+    <string name="mode_resistance_to_wraps">Resistance → Wraps</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_wire_diameter">Invalid wire diameter</string>
+    <string name="error_invalid_coil_id">Invalid inner diameter</string>
+    <string name="error_invalid_wraps">Invalid number of wraps</string>
+    <string name="error_invalid_target_resistance">Invalid target resistance</string>
+    <string name="error_calculation_failed">Calculation error: %s</string>
+    
+    <!-- Safety Messages -->
+    <string name="safety_message_safe_full">Build is within safe range</string>
+    <string name="safety_message_warning_full">High battery load - use with caution</string>
+    <string name="safety_message_danger_full">Battery CDR exceeded - Do not use!</string>
+</resources>

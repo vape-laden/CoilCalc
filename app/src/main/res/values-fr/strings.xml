@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">CoilCalc</string>
+    
+    <!-- Main Screen -->
+    <string name="calculator_title">Calculateur de Coil</string>
+    <string name="tab_calculator">Calculateur</string>
+    <string name="tab_knowledge">Connaissances</string>
+    <string name="tab_info">Info</string>
+    
+    <!-- Knowledge Zone Tabs -->
+    <string name="knowledge_tab_dictionary">Dictionnaire</string>
+    <string name="knowledge_tab_faq">FAQ</string>
+    <string name="knowledge_tab_wires">Fils</string>
+    
+    <!-- Calculator Inputs -->
+    <string name="label_wire_material">Matériau du fil</string>
+    <string name="label_wire_gauge">Diamètre du fil (AWG / mm)</string>
+    <string name="label_coil_id">Diamètre intérieur (mm)</string>
+    <string name="label_wraps">Nombre de spires</string>
+    <string name="label_target_resistance">Résistance cible (Ω)</string>
+    <string name="label_coil_type">Type de coil</string>
+    <string name="label_vaping_style">Style de vape</string>
+    <string name="label_power">Puissance (W)</string>
+    <string name="label_voltage">Tension (V)</string>
+    <string name="label_battery_cdr">CDR de la batterie (A)</string>
+    
+    <!-- Coil Types -->
+    <string name="coil_type_single">Single Coil</string>
+    <string name="coil_type_dual">Dual Coil</string>
+    <string name="coil_type_parallel">Parallel</string>
+    <string name="coil_type_twisted">Twisted</string>
+    <string name="coil_type_clapton">Clapton</string>
+    
+    <!-- Vaping Styles -->
+    <string name="style_mtl">MTL (Inhalation indirecte)</string>
+    <string name="style_rdl">RDL (DL restreint)</string>
+    <string name="style_dl">DL (Inhalation directe)</string>
+    
+    <!-- Wire Materials -->
+    <string name="material_kanthal">Kanthal A1</string>
+    <string name="material_ni80">Nichrome 80</string>
+    <string name="material_ss316">Acier inoxydable 316L</string>
+    <string name="material_ni200">Nickel 200</string>
+    <string name="material_titanium">Titane Grade 1</string>
+    
+    <!-- Buttons -->
+    <string name="button_calculate">Calculer</string>
+    <string name="button_save">Enregistrer</string>
+    <string name="button_reset">Réinitialiser</string>
+    <string name="button_back">Retour</string>
+    
+    <!-- Results -->
+    <string name="results_title">Résultats</string>
+    <string name="result_resistance">Résistance :</string>
+    <string name="result_wraps_needed">Spires nécessaires :</string>
+    <string name="result_wire_length">Longueur du fil :</string>
+    <string name="result_current">Intensité :</string>
+    <string name="result_power_range">Puissance recommandée :</string>
+    <string name="result_surface_area">Surface :</string>
+    <string name="result_heat_flux">Flux thermique :</string>
+    
+    <!-- Safety Indicators -->
+    <string name="safety_safe">Sûr</string>
+    <string name="safety_warning">Attention</string>
+    <string name="safety_danger">Danger</string>
+    <string name="safety_message_safe">Le build est dans la plage de sécurité</string>
+    <string name="safety_message_warning">Charge élevée de la batterie - utiliser avec prudence</string>
+    <string name="safety_message_danger">CDR de la batterie dépassé - Ne pas utiliser !</string>
+    
+    <!-- Build Management -->
+    <string name="build_name">Nom du build</string>
+    <string name="build_atomizer">Atomiseur</string>
+    <string name="build_notes">Notes</string>
+    <string name="build_date">Créé le :</string>
+    <string name="build_favorite">Favori</string>
+    <string name="builds_empty">Aucun build enregistré</string>
+    <string name="delete_build">Supprimer le build</string>
+    <string name="delete_confirm">Voulez-vous vraiment supprimer ce build ?</string>
+    
+    <!-- Developer Info -->
+    <string name="developer_info_title">Informations sur le développeur</string>
+    <string name="developer_info_text">CoilCalc a été développé par Vape-Laden pour fournir des calculs précis de coil pour les vapoteurs. Pour plus d\'informations sur le développeur, veuillez visiter le site web ci-dessous. Le lien ouvrira le navigateur par défaut de votre appareil.</string>
+    <string name="developer_website">https://vape-laden.de/?utm_source=android_app&amp;utm_medium=app&amp;utm_campaign=coilcalc&amp;utm_content=developer_info</string>
+    
+    <!-- Errors & Warnings -->
+    <string name="error_invalid_input">Veuillez saisir des valeurs valides</string>
+    <string name="error_calculation">Erreur de calcul</string>
+    <string name="validation_range">La valeur doit être comprise entre %1$s et %2$s</string>
+    
+    <!-- Disclaimers -->
+    <string name="disclaimer_title">Avis important</string>
+    <string name="disclaimer_text">Tous les calculs sont des approximations. Vérifiez toujours les spécifications de vos batteries et n\'utilisez que des batteries de haute qualité à fort courant. Utilisation à vos propres risques.</string>
+    <string name="disclaimer_accept">Compris</string>
+    
+    <!-- Units -->
+    <string name="unit_ohm">Ω</string>
+    <string name="unit_watt">W</string>
+    <string name="unit_volt">V</string>
+    <string name="unit_ampere">A</string>
+    <string name="unit_mm">mm</string>
+    <string name="unit_mm2">mm²</string>
+    <string name="unit_awg">AWG</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="setting_language">Langue</string>
+    <string name="setting_theme">Thème</string>
+    <string name="setting_units">Unités</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="theme_system">Système</string>
+    
+    <!-- Knowledge Zone -->
+    <string name="knowledge_composition">Composition</string>
+    <string name="knowledge_properties">Propriétés</string>
+    <string name="knowledge_pros">Avantages</string>
+    <string name="knowledge_cons">Inconvénients</string>
+    
+    <!-- Tools Menu -->
+    <string name="menu_battery_life">Autonomie de la batterie</string>
+    <string name="menu_converters">Convertisseurs</string>
+    
+    <!-- Battery Life -->
+    <string name="battery_life_title">Autonomie de la batterie</string>
+    <string name="battery_capacity">CAPACITÉ DE LA BATTERIE</string>
+    <string name="output_power">PUISSANCE DE SORTIE</string>
+    <string name="avg_puff_time">DURÉE MOYENNE D\'UNE BOUFFÉE</string>
+    <string name="show_results">AFFICHER LES RÉSULTATS</string>
+    <string name="clear">EFFACER</string>
+    <string name="estimated_runtime">Autonomie totale estimée</string>
+    <string name="estimated_puffs">Nombre estimé de bouffées</string>
+    
+    <!-- Converters -->
+    <string name="converters_title">Convertisseurs</string>
+    <string name="tab_inch">Pouce</string>
+    <string name="tab_temperature">Température</string>
+    <string name="convert_inch_to_mm">Convertir pouces en mm</string>
+    <string name="convert_celsius_fahrenheit">Convertir Celsius en Fahrenheit</string>
+    <string name="fraction_hint">Fraction (par ex., 1/8)</string>
+    <string name="or">OU</string>
+    
+    <!-- Calculator Mode -->
+    <string name="mode_wraps_to_resistance">Spires → Résistance</string>
+    <string name="mode_resistance_to_wraps">Résistance → Spires</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_wire_diameter">Diamètre du fil invalide</string>
+    <string name="error_invalid_coil_id">Diamètre intérieur invalide</string>
+    <string name="error_invalid_wraps">Nombre de spires invalide</string>
+    <string name="error_invalid_target_resistance">Résistance cible invalide</string>
+    <string name="error_calculation_failed">Erreur de calcul : %s</string>
+    
+    <!-- Safety Messages -->
+    <string name="safety_message_safe_full">Le build est dans la plage de sécurité</string>
+    <string name="safety_message_warning_full">Charge élevée de la batterie - utiliser avec prudence</string>
+    <string name="safety_message_danger_full">CDR de la batterie dépassé - Ne pas utiliser !</string>
+</resources>
