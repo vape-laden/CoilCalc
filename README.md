@@ -1,5 +1,7 @@
 # CoilCalc - Advanced Vape Coil Calculator
 
+> **Professional vape coil calculator for Android** - Developed by [Vape-Laden](https://vape-laden.de)
+
 CoilCalc is a professional Android application designed for precise calculation of vape coil parameters. This open-source tool provides vapers with accurate technical specifications for their custom coil builds.
 
 ## Overview
@@ -73,9 +75,11 @@ cd CoilCalc
 
 ## About Vape-Laden
 
-CoilCalc is developed and maintained by Vape-Laden, a team dedicated to providing high-quality tools and resources for the vaping community. Our goal is to promote safe vaping practices through education and precision tools.
+CoilCalc is developed and maintained by [Vape-Laden](https://vape-laden.de), a team dedicated to providing high-quality tools and resources for the vaping community. Our goal is to promote safe vaping practices through education and precision tools.
 
 This application represents our commitment to transparency and community-driven development. All core calculation algorithms are open-source, allowing for peer review and continuous improvement.
+
+**Visit us:** [https://vape-laden.de](https://vape-laden.de)
 
 ## License
 
